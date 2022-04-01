@@ -1,0 +1,35 @@
+ȯ
+ȸ
+Pay Slip
+
+Month/Year :Jul-2019
+
+DDO Code : S.P. GANGANAGAR
+TV No & Date:32612 & 05/08/2019 Bill No. & Date:777 & 21/07/2019 Month:Jul
+[
+ȡȣȡ ȡ ȯȡ
+Name:PAWAN KUMAR FC 1862 Designation:ȡÛ ȯ Pay Scale:L8
+[
+ȡȣ¡
+ȡ ȲÉȡ ɇȡȡ ȲÉȡ ȰȲ
+
+EMP ID:RJGA200835004086 Bank A/C No:61042831512 PAN:BHOPK4401P
+ȢȢf ȢȢfȲ f ]_Ȳ ĤȡȲ
+GPF/CPFNo :2008-13501597 SI No.:1075404 PRAN No :110081721930
+ɇȡȡ
+Bank/Branch :STATE BANK OF INDIA/JAWAHAR NAGAR, SRIGANGANAGAR
+
+Earnings(Rs.)
+Basic 29600.00
+DA 3552.00
+HDA 2763.00
+HRA 2368.00
+Mess All 2000.00
+Wash Allo. 113.00
+
+Deductions(Rs.)
+ECPenF 3315.00
+SIP 3000.00
+
+ȯ ǕȪǓȡ Ǔȯ
+Gross Pay : 40396.00 Total Deduction : 6315.00 Net Pay : 34081.00
